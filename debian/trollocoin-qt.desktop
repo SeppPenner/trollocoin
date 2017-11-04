@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Trollocoin
+Comment=Trollocoin P2P Cryptocurrency
+Comment[fr]=Trollocoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Trollocoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/trollocoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/trollocoin128.png
+MimeType=x-scheme-handler/trollocoin;
+Categories=Office;

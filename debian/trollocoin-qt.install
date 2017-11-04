@@ -1,0 +1,3 @@
+trollocoin-qt usr/bin
+debian/trollocoin-qt.desktop usr/share/applications
+debian/trollocoin-qt.protocol usr/share/kde4/services
