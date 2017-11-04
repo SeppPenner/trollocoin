@@ -1,12 +1,12 @@
-Paycoin version 0.3.3.1 is now available from:
+Trollocoin version 0.3.3.1 is now available from:
 
-  https://github.com/PaycoinFoundation/paycoin/releases
+  https://github.com/TrollocoinFoundation/trollocoin/releases
 
 This is an optional update including URI support and multiple bug fixes.
 
 Please report bugs using the issue tracker at github:
 
-  https://github.com/PaycoinFoundation/paycoin/issues
+  https://github.com/TrollocoinFoundation/trollocoin/issues
 
 Upgrading and downgrading
 =========================
@@ -16,16 +16,16 @@ How to Upgrade
 
 If you are running an older version, shut it down. Wait until it has completely
 shut down (this could take a few minutes), then run the installer (on Windows)
-or just copy over /Applications/Paycoin-Qt (on Mac) or paycoind/paycoin-qt (on Linux).
+or just copy over /Applications/Trollocoin-Qt (on Mac) or trollocoind/trollocoin-qt (on Linux).
 
 If you encounter any issues starting the new wallet it is recommended that you delete and resync the blockchain. To delete the blockchain look in the
-Paycoin data directory (listed below) and delete everything except the wallet.dat and paycoin.conf
+Trollocoin data directory (listed below) and delete everything except the wallet.dat and trollocoin.conf
 
-Linux : ~/.paycoin/
+Linux : ~/.trollocoin/
 
-Windows : %appdata%\Paycoin
+Windows : %appdata%\Trollocoin
 
-Mac : ~/Library/Application Support/Paycoin
+Mac : ~/Library/Application Support/Trollocoin
 
 It is highly recommended that if you do not have a backup of your wallet.dat
 to go ahead and make one before deleting the blockchain.
@@ -49,7 +49,7 @@ cause nodes to disconnect from the network.
 Notable changes
 ===============
 
-Added support for Paycoin URIs in QT wallet.
+Added support for Trollocoin URIs in QT wallet.
 Fixed crash on send/stake plus general code updates.
 
 0.3.3.1 Change log
@@ -60,13 +60,13 @@ Detailed release notes follow.
 GUI:
 - `2d6dfb9` merge toggleHidden() code into showNormalIfMinimized() to extend the …
 - `8a1a967` change initial Balance on overviewpage from "123.456 XPY" to "0 XPY" …
-- `722c5dc` Change strings to Paycoin (uppercase) and other miscellaneous fixes
-- `18993f7` Correct translatable string from Bitcoin to Paycoin
+- `722c5dc` Change strings to Trollocoin (uppercase) and other miscellaneous fixes
+- `18993f7` Correct translatable string from Bitcoin to Trollocoin
 - `a0cb315` Remove duplicate spaces from a string
-- `648fc59` Add an option to open the paycoin.conf in the default editor
+- `648fc59` Add an option to open the trollocoin.conf in the default editor
 - `80dbe2e` Add a notice when selecting edit config in QT
 - `02d42ae` Fix Opening on OSX
-- `4898c94` Paycoin-Qt (Windows only): extend Resource File
+- `4898c94` Trollocoin-Qt (Windows only): extend Resource File
 - `0b67ded` Add missing Q_OBJECT in bitcoin.cpp
 - `45717b7` Qt: add copyrightLabel to aboutdialog.ui
 - `e13d341` Translation strings update
@@ -79,18 +79,18 @@ GUI:
 - `295751b` Correct a string accidentally referencing Bitcoin
 - `4f29cec` Translation updates / string updates
 - `2bfee2a` Fix some translation plurals
-- `0142107` Change Window title to "Paycoin - Wallet" / misc related renames
+- `0142107` Change Window title to "Trollocoin - Wallet" / misc related renames
 - `f51e337` Make sort and filters for transactions and labels case-insensitive
 - `0efc89b` Qt: Periodic translation update
 - `abaa02c` Revert "Remove spent transactions from the minting table model."
-- `f687b68` Add support for opening paycoin: URIs directly.
+- `f687b68` Add support for opening trollocoin: URIs directly.
 - `478af1c` Update the copyright strings visible in the Qt to 2016
 
 Build system:
 - `3d0e35d` Check if FD_SETSIZE is already defined before trying to define it
 - `bcd09f8` Mute this obnoxious unused warning that occurs on linux
 - `120ec8e` Fix noinline definition so that it works for more compilers.
-- `c5c281a` Rename project to paycoin-qt
+- `c5c281a` Rename project to trollocoin-qt
 
 Primes / Microprimes:
 - `438a2ab` Move primenode dbtype defines in CPrimeNodeDB
@@ -149,7 +149,7 @@ Miscellaneous:
 - `769efcd` Better validity checks for scrape addresses
 - `8e222bb` Remove unneeded extern from scrapesdb.cpp
 - `2427e82` Allow binding to the any address, and report failure
-- `ca2ae7a` Rename rpcuser from bitcoinrpc --> paycoinrpc in message dialog
+- `ca2ae7a` Rename rpcuser from bitcoinrpc --> trollocoinrpc in message dialog
 - `d2fa289` Some X11 references snuck back into the source
 - `afe7c02` util.h/.ccp: modifiy some comments / rename MyGetSpecialFolderPath() …
 - `3efe964` Cleanup leftover docs from the Peerunity fork

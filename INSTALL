@@ -1,9 +1,9 @@
-Building Paycoin
+Building Trollocoin
 
-See doc/readme-qt.md for instructions on building Paycoin-Qt,
+See doc/readme-qt.md for instructions on building Trollocoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Paycoin.
+implementation of Trollocoin.
 
-See doc/build-*.md for instructions on building paycoind,
+See doc/build-*.md for instructions on building trollocoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Paycoin.
+implementation of Trollocoin.

@@ -14,7 +14,7 @@ Sanity checks:
 
 Once you've got the right hardware and software:
 
-    git clone git://github.com/PaycoinFoundation/paycoin.git
+    git clone git://github.com/TrollocoinFoundation/trollocoin.git
     git clone git://github.com/devrandom/gitian-builder.git
     mkdir gitian-builder/inputs
 
@@ -29,11 +29,11 @@ If you don't have the dependencies yet, get them and copy them to the inputs dir
     ...
 See doc/release-process.md for the complete list of dependencies.
 
-    cd paycoin
+    cd trollocoin
     git pull
     cd ../gitian-builder
     git pull
-    ./bin/gbuild --commit paycoin=HEAD ../bitcoin/contrib/gitian.yml
+    ./bin/gbuild --commit trollocoin=HEAD ../bitcoin/contrib/gitian.yml
 
 If you get a permission issue when you try to use gbuild:
     sudo adduser <your username> kvm

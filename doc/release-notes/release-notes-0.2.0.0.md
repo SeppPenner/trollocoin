@@ -1,13 +1,13 @@
-Paycoin version 0.2.0.0 is now available from:
+Trollocoin version 0.2.0.0 is now available from:
 
-  https://github.com/PaycoinFoundation/paycoin/releases
+  https://github.com/TrollocoinFoundation/trollocoin/releases
 
 This is a mandatory update, including a modification to the primenode stake
 rate and many bug fixes.
 
 Please report bugs using the issue tracker at github:
 
-  https://github.com/PaycoinFoundation/paycoin/issues
+  https://github.com/TrollocoinFoundation/trollocoin/issues
 
 Upgrading and downgrading
 =========================
@@ -17,18 +17,18 @@ How to Upgrade
 
 If you are running an older version, shut it down. Wait until it has completely
 shut down (this could take a few minutes), then run the installer (on Windows)
-or just copy over /Applications/Paycoin-Qt (on Mac) or paycoind/paycoin-qt (on Linux).
+or just copy over /Applications/Trollocoin-Qt (on Mac) or trollocoind/trollocoin-qt (on Linux).
 
 In some cases users may be required to delete and resync their blockchain do to
 a race/version issue with Berkeley DB. To delete the blockchain look in the
-Paycoin data directory (listed below) and delete everything except the
-wallet.dat and paycoin.conf
+Trollocoin data directory (listed below) and delete everything except the
+wallet.dat and trollocoin.conf
 
-Linux : ~/.paycoin/
+Linux : ~/.trollocoin/
 
-Windows : %appdata%\Roaming\Paycoin
+Windows : %appdata%\Roaming\Trollocoin
 
-Mac : ~/Library/Application Support/Paycoin
+Mac : ~/Library/Application Support/Trollocoin
 
 It is highly recommended that if you do not have a backup of your wallet.dat
 to go ahead and make one before deleting the blockchain.
@@ -147,11 +147,11 @@ Miscellaneous:
 - `638f0a0` Update README.md
 - `c0faa76` Update README.md
 - `177ecca` Checkpoints for every 2500 or so blocks from 50000 to 95000
-- `62a3da1` Update GitHub URLs to point to PaycoinFoundation/paycoin
+- `62a3da1` Update GitHub URLs to point to TrollocoinFoundation/trollocoin
 - `1ac376d` Update version numbers to 0.1.2.26
 - `b8837fe` Fix spelling mistakes
 - `6b20f1d` Remove printf lines containing PRId64 as this breaks gitian builds
-- `19ca0ef` Point GitHub URL to PaycoinFoundation
+- `19ca0ef` Point GitHub URL to TrollocoinFoundation
 - `9a47b43` Update HTTP to HTTPS
 - `12ae607` Fix references to the MIT licence
 - `a0a6b5f` Replace reference to license.txt with COPYING
@@ -171,7 +171,7 @@ Thanks to everyone who contributed to this release:
 - Marlon Hanks
 - Mitchell Cash
 - Nathan Bass
-- Paycoin Developer Team
+- Trollocoin Developer Team
 - Treefunder Incorporated
 - Victor J Vargas II
 - wdl1908

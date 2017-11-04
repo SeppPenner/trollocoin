@@ -1,4 +1,4 @@
-Source: paycoin
+Source: trollocoin
 Section: utils
 Priority: optional
 Maintainer: wdl1908 <wdlbit@linux-lovers.be>
@@ -16,17 +16,17 @@ Build-Depends: debhelper (>= 9.0.0),
  libminiupnpc-dev,
  libqrencode-dev
 Standards-Version: 0.1.2.26
-Homepage: https://paycoin.com/
-Vcs-Git: https://github.com/PaycoinFoundation/paycoin.git
+Homepage: https://trollocoin.com/
+Vcs-Git: https://github.com/TrollocoinFoundation/trollocoin.git
 
-Package: paycoin-qt
+Package: trollocoin-qt
 Architecture: any-amd64 any-i386 any-arm
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Paycoin wallet GUI
+Description: Trollocoin wallet GUI
  Peer-to-Peer cryptocurrency with Proof-of-Stake.
 
-Package: paycoind
+Package: trollocoind
 Architecture: any-amd64 any-i386 any-arm
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Paycoin daemon
+Description: Trollocoin daemon
  Peer-to-Peer cryptocurrency with Proof-of-Stake.

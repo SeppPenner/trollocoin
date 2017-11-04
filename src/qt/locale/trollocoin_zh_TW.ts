@@ -156,7 +156,7 @@
         <translation>錢包加密失敗</translation>
     </message>
     <message>
-        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PAYCOINS&lt;/b&gt;!
+        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TROLLOCOINS&lt;/b&gt;!
 Are you sure you wish to encrypt your wallet?</source>
         <translation>警告! 一旦加密錢包後又忘了密碼, 你將會失去所有trollocoin! 你確定想要加密你的錢包嗎?</translation>
     </message>

@@ -1,5 +1,5 @@
-src/paycoind
-src/test_paycoin
+src/trollocoind
+src/test_trollocoin
 
 # Ignore build dir
 build/
@@ -7,7 +7,7 @@ build/
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-paycoin-qt
+trollocoin-qt
 
 # Resources cpp
 qrc_*.cpp

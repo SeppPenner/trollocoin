@@ -144,9 +144,9 @@
         <translation>Enkripsi dompet gagal</translation>
     </message>
     <message>
-        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PAYCOINS&lt;/b&gt;!
+        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TROLLOCOINS&lt;/b&gt;!
 Are you sure you wish to encrypt your wallet?</source>
-        <translation>PERINGATAN: Jika Anda mengenkripsi dompet Anda dan kehilangan passphrase, Anda akan &lt;b&gt;KEHILANGAN SEMUA PAYCOINS ANDA&lt;/b&gt;!
+        <translation>PERINGATAN: Jika Anda mengenkripsi dompet Anda dan kehilangan passphrase, Anda akan &lt;b&gt;KEHILANGAN SEMUA TROLLOCOINS ANDA&lt;/b&gt;!
 Apakah Anda yakin ingin mengenkripsi dompet Anda?</translation>
     </message>
     <message>

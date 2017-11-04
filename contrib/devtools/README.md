@@ -10,15 +10,15 @@ If you run this script from src/ it will automatically update the year on the co
 .cpp and .h files if these have a git commit from the current year.
 
 For example a file changed in 2015 (with 2015 being the current year):
-```// Copyright (c) 2013-2014 The Paycoin developers```
+```// Copyright (c) 2013-2014 The Trollocoin developers```
 
 would be changed to:
-```// Copyright (c) 2013-2015 The Paycoin developers```
+```// Copyright (c) 2013-2015 The Trollocoin developers```
 
 optimize-pngs.py
 ================
 
-A script to optimize png files in the paycoin
+A script to optimize png files in the trollocoin
 repository (requires pngcrush).
 
 update-translations.py

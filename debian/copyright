@@ -1,9 +1,9 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: paycoin
-Source: https://github.com/PaycoinFoundation/paycoin.git
+Upstream-Name: trollocoin
+Source: https://github.com/TrollocoinFoundation/trollocoin.git
 
 Files: *
-Copyright: Copyright (c) 2014 Paycoin (Paycoin) Developers
+Copyright: Copyright (c) 2014 Trollocoin (Trollocoin) Developers
            Copyright (c) 2011-2014 PPCoin Developers
            Copyright (c) 2009-2012 Bitcoin Developers
 License: MIT

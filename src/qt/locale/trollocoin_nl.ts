@@ -160,9 +160,9 @@
         <translation>Portemonneeversleuteling mislukt</translation>
     </message>
     <message>
-        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PAYCOINS&lt;/b&gt;!
+        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TROLLOCOINS&lt;/b&gt;!
 Are you sure you wish to encrypt your wallet?</source>
-        <translation>WAARSCHUWING: Indien je de portemonnee versleutelt en je wachtwoordzin verliest, dan verlies je &lt;b&gt; AL JE PAYCOINS&lt;/b&gt;!
+        <translation>WAARSCHUWING: Indien je de portemonnee versleutelt en je wachtwoordzin verliest, dan verlies je &lt;b&gt; AL JE TROLLOCOINS&lt;/b&gt;!
 Weet je zeker dat je de portemonee wilt versleutelen?</translation>
     </message>
     <message>

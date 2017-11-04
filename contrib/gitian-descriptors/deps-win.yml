@@ -1,5 +1,5 @@
 ---
-name: "paycoin-deps"
+name: "trollocoin-deps"
 suites:
 - "precise"
 architectures:
@@ -124,5 +124,5 @@ script: |
     done
     #
     cd $INSTALLPREFIX
-    find include lib | sort | zip -X@ $OUTDIR/paycoin-deps-win$BITS-gitian-r13.zip
+    find include lib | sort | zip -X@ $OUTDIR/trollocoin-deps-win$BITS-gitian-r13.zip
   done # for BITS in

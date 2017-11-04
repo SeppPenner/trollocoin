@@ -1,19 +1,19 @@
-paycoin (0.3.3.1) precise; urgency=low
+trollocoin (0.3.3.1) precise; urgency=low
 
-  * Fix support for paycoin-qt’s paycoin: URI support.
+  * Fix support for trollocoin-qt’s trollocoin: URI support.
   * Fix periodic crash when sending/staking coins.
   * Adjusted change log cause we didn't release URI support for 0.3.3.0
 
  -- Mitchell Cash (mitchellcash) <mitchell@fastmail.com.au>  Tue, 16 Feb 2016 09:17:00 +1000
  -- Nathan Bass (IngCr3at1on) <nathan@xpydev.org> Wed, 17 Feb 2016 13:16:02 -0600
 
-paycoin (0.1.2.26) stable; urgency=low
+trollocoin (0.1.2.26) stable; urgency=low
 
   * Bring package version number inline with application
 
  -- Nathan Bass (IngCr3at1on) <nathan@btc.com>  Wed, 11 Feb 2015 12:48:31 -0600
 
-paycoin (0.1.2.25) stable; urgency=low
+trollocoin (0.1.2.25) stable; urgency=low
 
   * Initial release
 

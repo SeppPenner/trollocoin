@@ -25,5 +25,5 @@ script:
   - cd src
   - make -f makefile.unix clean
   - make -f makefile.unix
-  - make -f makefile.unix test_paycoin
-  - ./test_paycoin
+  - make -f makefile.unix test_trollocoin
+  - ./test_trollocoin
