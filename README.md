@@ -1,12 +1,12 @@
 Trollocoin Core integration/staging tree
-=====================================
+========================================
 
 [![Build Status](https://travis-ci.org/TrollocoinFoundation/trollocoin.svg?branch=master)](https://travis-ci.org/TrollocoinFoundation/trollocoin)
 
 https://www.trollocoin.com
 
 What is Trollocoin?
-----------------
+-------------------
 
 Trollocoin is an experimental new digital currency that enables instant payments to
 anyone, anywhere in the world. Trollocoin uses a proof-of-stake method in order for
